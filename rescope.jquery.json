@@ -3,15 +3,16 @@
     "title": "jQuery Rescope",
     "description": "jQuery plugin for creating a mock DOM within the bounds of a test.",
     "keywords": [
-    	"unit test",
-    	"unit tests",
-    	"unit testing",
+    	"unit",
+		"test",
+    	"tests",
+    	"testing",
     	"TDD",
     	"QUnit",
-    	"mocking",
-    	"mock data"
+    	"mock",
+    	"mocking"
     ],
-    "version": "1.0",
+    "version": "1.0.1",
     "author": {
         "name": "Joseph Theriault",
         "url": "http://www.josephtheriault.com"

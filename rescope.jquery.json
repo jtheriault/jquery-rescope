@@ -1,0 +1,39 @@
+{
+    "name": "rescope",
+    "title": "jQuery Rescope",
+    "description": "jQuery plugin for creating a mock DOM within the bounds of a test.",
+    "keywords": [
+    	"unit test",
+    	"unit tests",
+    	"unit testing",
+    	"TDD",
+    	"QUnit",
+    	"mocking",
+    	"mock data"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Joseph Theriault",
+        "url": "http://www.josephtheriault.com"
+    },
+    "maintainers": [
+        {
+            "name": "Joseph Theriault",
+            "email": "joseph@yankoismedia.com",
+            "url": "http://www.josephtheriault.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jtheriault/jquery-rescope/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/jtheriault/jquery-rescope/issues",
+    "homepage": "https://github.com/jtheriault/jquery-rescope",
+    "docs": "https://github.com/jtheriault/jquery-rescope",
+    "download": "",
+    "dependencies": {
+        "jquery": ">=1.2.1"
+    }
+}

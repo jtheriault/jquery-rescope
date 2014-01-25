@@ -26,9 +26,10 @@ Options
 *default: {display: 'none', height: '100%', width: '100%'}*
 
 Sets the CSS properties of the iframe element in which the DOM is scoped.  This
-in cases when the test depends upon a specific rendering situation (e.g. within
-a non-scrolling document).
+is intended for cases when the test depends upon a specific rendering situation
+(e.g. within a non-scrolling document).
  
 Roadmap
 =======
+~~Bower registration~~
 Build process

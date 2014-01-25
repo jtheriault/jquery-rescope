@@ -1,0 +1,27 @@
+{
+  "name": "jquery-rescope",
+  "version": "1.0.1",
+  "homepage": "https://github.com/jtheriault/jquery-rescope",
+  "authors": [
+    "jtheriault <joseph@yankoismedia.com>"
+  ],
+  "description": "jQuery plugin for creating a mock DOM within the bounds of a test.",
+  "main": "src/jquery-rescope.js",
+  "keywords": [
+    "jquery",
+    "tdd",
+    "unit",
+    "test",
+    "testing",
+    "mocking",
+    "mock"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
